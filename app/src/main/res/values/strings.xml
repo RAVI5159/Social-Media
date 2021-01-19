@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SocialMedia</string>
+    <string name="choose_option_to_login">Choose Option To Login</string>
+
+    <string name="designed_by_ravi">Designed by: Ravi</string>
+    <string name="logout">Logout</string>
+    <string name="details">Details...</string>
+    <string name="name_ravi_gupta">Name:Ravi Gupta</string>
+    <string name="email_gupta_gmail_com">Email:gupta..@gmail.com</string>
+    <string name="age_20_unmarried">Age:20/Unmarried</string>
+    <string name="welcome_to_sparks_foundation">Welcome To Sparks Foundation</string>
+    <string name="todo">TODO</string>
+    <string name="socail_media_integration">Socail Media Integration</string>
+
+</resources>
